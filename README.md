@@ -6,7 +6,7 @@
     </h3>
 </a>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carlos+Galuzi;I'm+19+years+old;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carlos+Galuzi;I'm+20+years+old;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
    <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
