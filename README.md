@@ -1,8 +1,8 @@
-<!-- ANIME CYBERPUNK PROFILE - BY CARLOS GALUZI -->
+<!-- 🌌 ANIME CYBERPUNK PROFILE - BY CARLOS GALUZI 🌌 -->
 <div align="center">
 
 <!-- BANNER ANIMADO COM EFEITO CYBERPUNK -->
-<img src="https://i.imgur.com/JzQc3ZN.gif" width="100%"/>
+<img src="https://github.com/Galuzi/Galuzi/blob/main/assets/cyber-banner.gif?raw=true" width="100%"/>
 
 <!-- TEXTO ANIMADO COM EFEITO DE DIGITAÇÃO -->
 <h1 align="center">
@@ -10,7 +10,7 @@
 </h1>
 
 <!-- VISUALIZADOR DE CÓDIGO HACKER ANIMADO -->
-<img src="https://i.imgur.com/9QZQZ.gif" width="400" alt="Matrix Code"/>
+<img src="https://github.com/Galuzi/Galuzi/blob/main/assets/matrix-code.gif?raw=true" width="400" alt="Matrix Code"/>
 
 <!-- SEÇÃO DE STATUS COM EFEITOS -->
 <div align="center">
@@ -59,7 +59,7 @@
 ## 🎧 **Neon Soundtrack**
 <div align="center">
   
-[![Spotify](https://novatorem-psi-six.vercel.app/api/spotify?background_color=0d1117&border_color=FF00F7)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kz4zq2w5qwhjq3mz5n3hq5bfdi&cover_image=true&theme=novatorem&bar_color=ff00f7&bar_color_cover=true)](https://open.spotify.com/user/31kz4zq2w5qwhjq3mz5n3hq5bfdi)
 
 </div>
 
@@ -74,7 +74,7 @@
 </div>
 
 <!-- RODAPÉ ANIMADO -->
-<img src="https://i.imgur.com/JzQc3ZN.gif" width="100%"/>
+<img src="https://github.com/Galuzi/Galuzi/blob/main/assets/cyber-footer.gif?raw=true" width="100%"/>
 
 <!-- ASCII ART FINAL -->
 <div align="center">
