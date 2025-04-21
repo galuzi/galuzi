@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">  
-  <img src="https://i.imgur.com/5zY3v2T.png" width="30"> 𝕮𝖔𝖉𝖊 �𝖘 𝖒𝖞 𝖘𝖚𝖕𝖊𝖗𝖕𝖔𝖜𝖊𝖗 <img src="https://i.imgur.com/5zY3v2T.png" width="30">  
+  <img src="https://imgur.com/TnBhkgG.gif" width="30"> 𝕮𝖔𝖉𝖊 �𝖘 𝖒𝖞 𝖘𝖚𝖕𝖊𝖗𝖕𝖔𝖜𝖊𝖗 <img src="https://imgur.com/TnBhkgG.gif" width="30">  
 </h1>  
 
 <p align="center">  
