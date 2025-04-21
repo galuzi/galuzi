@@ -69,5 +69,5 @@
 ## ⚡ Evil Morty está no controle:
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/7P7Gjsd7FljzO/giphy.gif](https://i.giphy.com/ErZ8hv5eO92JW.webp)" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGphbWQ4OWpsdGFpcGd6NXJ0MWZodzdoYW8xMmlmNnlmbWc2Y3c5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErZ8hv5eO92JW/giphy.gif" width="300" />
 </p>
