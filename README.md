@@ -1,73 +1,51 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
-  Oi, eu sou o Galuzi!
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
-</h1>
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
+<div>
+  <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align="right" />
+  <br/>
+  <img src="./img/AboutMe-elaina.png" width="488" />
+  <br/>
+  <br/>
+  <br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="600" />
-</p>
+  - Name: **Galuzi**
+  
+  - Residing in: **Brasil**
 
----
+  - Field of Study: [**Desenvolvimento de Sistemas**](https://www.seu-link-de-estudos.com)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Programador+e+descolado👾;Rick+and+Morty+é+lei🛸;Café%2C+Code+e+Caos☕;Bora+fazer+algo+insano!&font=Fira+Code&center=true&width=440&height=45&color=00FFD1&vCenter=true&size=22" />
+  - Proficient in: **PHP**, **CSS**, **C#**
+
+  - Skilled in: **JavaScript**, **MySQL**, **Docker**, **GitHub Actions**
+
+  - Highly experienced with: **XAMPP**, **AWS**, **Git**, **CI/CD**
+
+  - Languages: **Português**, **Inglês**, **Espanhol**
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galuzi&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align="right" />
+  <br/>
+  <br/>
+  <img src="./img/Repo-elaina.png" width="488" />
+  <br/>
+  <br/>
+  
+  - 📗 [***Galuzi/awesome-project***](https://github.com/galuzi/awesome-project) <br/>
+    A collection of awesome projects and resources.
+  - 📘 [***Galuzi/web-portfolio***](https://github.com/galuzi/web-portfolio) <br/>
+    My personal portfolio website built using HTML, CSS, and PHP.
+  - 📙 [***Galuzi/advanced-api***](https://github.com/galuzi/advanced-api) <br/>
+    A cutting-edge REST API with advanced features for secure systems.
+  - 📒 [***Galuzi/api-explorer***](https://github.com/galuzi/api-explorer) <br/>
+    An API explorer tool designed to simplify API testing.
+  
+  <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+  <br/>
+  <img src="./img/banner-elainaa.png" width="500" /><br/>
+  <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@galuzi.com</sub>
+  <br/><br/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=galuzi&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+  <br/><br/>
+  <p align='center'>
+    <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.galuzi.com"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/galuzi"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/galuzi"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/galuzi"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/galuzi"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+  </p>
+  <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
 </div>
-
----
-
-## 🛸 Tecnologias que pilotam minha nave:
-
-<div align="center" style="display: flex; flex-direction: row;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
-</div>
-
----
-
-## 💬 Frase do dia:
-
-> *"Sometimes science is more art than science, Morty. Lot of people don't get that."*  
-> <sub>– Rick Sanchez</sub>
-
----
-
-## 📊 Stats alienígenas:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galuzi&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galuzi&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 🧪 Me encontra viajando por aí:
-
-<div align="center">
-  <a href="https://github.com/galuzi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kDcfrr5xZJ1Y/giphy.gif" width="250" />
-</p>
-
-<p align="center"><strong>“Wubba Lubba Dub-Dub!”</strong></p>
-
----
-
-## ⚡ Evil Morty está no controle:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGphbWQ4OWpsdGFpcGd6NXJ0MWZodzdoYW8xMmlmNnlmbWc2Y3c5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErZ8hv5eO92JW/giphy.gif" width="300" />
-</p>
