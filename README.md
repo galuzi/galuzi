@@ -15,7 +15,7 @@
 ### **🔥 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑**  
 
 <p align="center">
-  <img src="https://i.imgur.com/4ovF5ui.gif" width="300" alt="Cyber Samurai">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84cf2c29-f134-444d-9f88-260356c544ca/dj9zarq-0a28b3cc-16a6-4c99-9b86-eb7b4762653c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0Y2YyYzI5LWYxMzQtNDQ0ZC05Zjg4LTI2MDM1NmM1NDRjYVwvZGo5emFycS0wYTI4YjNjYy0xNmE2LTRjOTktOWI4Ni1lYjdiNDc2MjY1M2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G9QL7OXW4UQDRjjCw2jw2dLB4q0vVFhmKVynlaDlOpU" width="300" alt="Cyber Samurai">
 </p>
 
 #### **⚔️ 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕭𝖆𝖙𝖙𝖑𝖊**  
