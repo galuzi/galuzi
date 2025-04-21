@@ -15,7 +15,7 @@
 ### **🔥 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑**  
 
 <p align="center">
-  <img src="https://i.imgur.com/4ovF5ui.mp4" width="300" alt="Cyber Samurai">
+  <img src="https://i.imgur.com/4ovF5ui.gif" width="300" alt="Cyber Samurai">
 </p>
 
 #### **⚔️ 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕭𝖆𝖙𝖙𝖑𝖊**  
