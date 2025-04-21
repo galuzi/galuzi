@@ -13,23 +13,19 @@
 ---
 
 ### **🔥 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑**  
-*(Minhas lâminas digitais para esculpir sistemas épicos)*  
 
 <p align="center">
-  <img src="https://i.imgur.com/JrQ3z4P.png" width="300" alt="Cyber Samurai">
+  <img src="https://i.imgur.com/4ovF5ui.mp4" width="300" alt="Cyber Samurai">
 </p>
 
 #### **⚔️ 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕭𝖆𝖙𝖙𝖑𝖊**  
 `PHP` `C#` `Laravel` `.NET` `MySQL`  
-*(Domino o backend como um shinobi controla chakra)*  
 
 #### **🌌 𝕱𝖗𝖔𝖓𝖙-𝕰𝖓𝖉 𝕲𝖚𝖆𝖗𝖉**  
 `JavaScript` `HTML/CSS` `Bootstrap` `jQuery`  
-*(Interfaces tão afiadas quanto uma katana)*  
 
 #### **🛡️ 𝕯𝖊𝖕𝖑𝖔𝖞𝖒𝖊𝖓𝖙 𝕯𝖊𝖋𝖊𝖓𝖘𝖊**  
 `Docker` `Azure` `Git` `Linux`  
-*(Minhas defesas são firewalls lendárias)*  
 
 <p align="center">
   <img src="https://i.imgur.com/KaJ3QzW.png" width="150" alt="PHP Ninja">
