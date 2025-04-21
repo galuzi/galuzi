@@ -1,58 +1,48 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20world!&descAlignY=65&descSize=20&fontSize=60"/>
 
-<p align="center">
-  <img src="https://imgur.com/ingnUwX.png" width="80%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hello,+I'm+Carlos+Galuzi!;Full+Stack+Developer+%F0%9F%94%A5;20+years+old+%F0%9F%8E%93;Passionate+about+code+and+tech+%F0%9F%92%BB;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
-
----
-
-<p align="center">
-  <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="Playing Now on Spotify" width="450"/>
-</p>
-
----
-
-<h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=galuzi&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galuzi&layout=compact&theme=react&hide_border=true"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+CARLOS+GALUZI;FULL+STACK+DEVELOPER;TECH+ENTHUSIAST;INNOVATION+LOVER" alt="Typing Animation"/>
+  </a>
 </div>
 
----
-
-<h2 align="center">🧠 Main Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://komarev.com/ghpvc/?username=galuzi&label=Profile%20Views&color=00bfbf&style=flat" alt="galuzi"/>
 </p>
 
----
-
-<h2 align="center">🛠️ Tools I Use</h2>
+## 🎵 Now Playing
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER_SPOTIFY&cover_image=true&theme=novatorem&bar_color=00fffb&bar_color_cover=false" width="600" alt="Now Playing"/>
 </p>
 
----
+## 📊 GitHub Stats
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=galuzi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=My+Stats" alt="GitHub Stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galuzi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages"/>
+</div>
 
-<h2 align="center">📚 Currently Learning</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galuzi&theme=black-ice&hide_border=true&stroke=00fffb&ring=00fffb&fire=00fffb&currStreakLabel=00fffb" width="60%" alt="GitHub Streak"/>
+</div>
 
----
+## 🛠 Tech Stack
+### 💻 Languages & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### 🛠 Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+## 🎨 ASCII Art
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer&animation=twinkling&fontSize=90"/>
