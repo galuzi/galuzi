@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/9X1JQ3L.png" width="600" alt="Cyber Anime Header">  
+  <img src="https://imgur.com/8luwR2X" width="600" alt="Cyber Anime Header">  
 </p>
 
 <h1 align="center">  
