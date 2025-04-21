@@ -45,5 +45,5 @@
 ---  
 
 <p align="center">  
-  <img src="https://www.deviantart.com/kyokazu/art/Glitched-City-360-Pano-link-748910206" width="900" alt="Anime Cyber Art">  
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83c3ac45-0de3-4f59-8dfe-a2379b3a3400/dirn1cv-cbf6ce7e-9bff-4e0d-95f5-dcbe6f207196.png/v1/fill/w_1194,h_669,q_70,strp/_chrome__by_evlsound_dirn1cv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6IlwvZlwvODNjM2FjNDUtMGRlMy00ZjU5LThkZmUtYTIzNzliM2EzNDAwXC9kaXJuMWN2LWNiZjZjZTdlLTliZmYtNGUwZC05NWY1LWRjYmU2ZjIwNzE5Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.aPQJpT0m83GpjXuW6_NZriwTX06nt_zcPJYmuDa9-Uk" width="900" alt="Anime Cyber Art">  
 </p>  
