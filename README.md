@@ -45,5 +45,5 @@
 ---  
 
 <p align="center">  
-  <img src="https://i.imgur.com/JrQ3z4P.png" width="400" alt="Anime Cyber Art">  
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83c3ac45-0de3-4f59-8dfe-a2379b3a3400/dis4cgj-be4648f6-b6c9-48c4-b914-c441135636a4.png/v1/fill/w_1194,h_669,q_70,strp/_eclipse_protocol__by_evlsound_dis4cgj-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6IlwvZlwvODNjM2FjNDUtMGRlMy00ZjU5LThkZmUtYTIzNzliM2EzNDAwXC9kaXM0Y2dqLWJlNDY0OGY2LWI2YzktNDhjNC1iOTE0LWM0NDExMzU2MzZhNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.y0c6W_28b0ZoOoKja8aAGJ3gY_-D3FZ-Ax-y0O9suiE" width="400" alt="Anime Cyber Art">  
 </p>  
