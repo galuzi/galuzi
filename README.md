@@ -45,5 +45,5 @@
 ---  
 
 <p align="center">  
-  <img src="https://image-5.uhdpaper.com/wallpaper/anime-girl-with-corgi-dog-4k-wallpaper-uhdpaper.com-518@5@e.jpg" width="900" alt="Anime Cyber Art">  
+  <img src="https://image-5.uhdpaper.com/wallpaper/anime-girl-with-corgi-dog-4k-wallpaper-uhdpaper.com-518@5@e.png" width="900" alt="Anime Cyber Art">  
 </p>  
