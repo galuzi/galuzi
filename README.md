@@ -7,16 +7,34 @@
 </h1>  
 
 <p align="center">  
-  <i>「 while(!succeed) { try(); } 」</i>  
+  <i> "while(!succeed) { try(); }" </i>  
 </p>  
 
 ---
 
 ### **🔥 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑**  
+*(Minhas lâminas digitais para esculpir sistemas épicos)*  
 
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,rust,go,aws,docker,kubernetes,postgres,redis,graphql&theme=dark" alt="Tech Stack">  
-</p>  
+<p align="center">
+  <img src="https://i.imgur.com/JrQ3z4P.png" width="300" alt="Cyber Samurai">
+</p>
+
+#### **⚔️ 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕭𝖆𝖙𝖙𝖑𝖊**  
+`PHP` `C#` `Laravel` `.NET` `MySQL`  
+*(Domino o backend como um shinobi controla chakra)*  
+
+#### **🌌 𝕱𝖗𝖔𝖓𝖙-𝕰𝖓𝖉 𝕲𝖚𝖆𝖗𝖉**  
+`JavaScript` `HTML/CSS` `Bootstrap` `jQuery`  
+*(Interfaces tão afiadas quanto uma katana)*  
+
+#### **🛡️ 𝕯𝖊𝖕𝖑𝖔𝖞𝖒𝖊𝖓𝖙 𝕯𝖊𝖋𝖊𝖓𝖘𝖊**  
+`Docker` `Azure` `Git` `Linux`  
+*(Minhas defesas são firewalls lendárias)*  
+
+<p align="center">
+  <img src="https://i.imgur.com/KaJ3QzW.png" width="150" alt="PHP Ninja">
+  <img src="https://i.imgur.com/TnBhkgG.gif" width="150" alt="C# Hacker">
+</p>
 
 ---
 
