@@ -37,8 +37,6 @@
 ### **📊 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘**  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=galuzi&show_icons=true&theme=merko&include_all_commits=true" alt="Stats">  
-  <br>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=galuzi&theme=merko" alt="Streak">  
 </p>  
 
