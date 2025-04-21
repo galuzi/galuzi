@@ -1,51 +1,62 @@
-<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
-<div>
-  <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align="right" />
-  <br/>
-  <img src="./img/AboutMe-elaina.png" width="488" />
-  <br/>
-  <br/>
-  <br/>
+<p align="center">
+  <img src="https://i.imgur.com/9X1JQ3L.png" width="600" alt="Cyber Anime Header">  
+</p>
 
-  - Name: **Galuzi**
-  
-  - Residing in: **Brasil**
+<h1 align="center">  
+  <img src="https://i.imgur.com/5zY3v2T.png" width="30"> 𝕮𝖔𝖉𝖊 �𝖘 𝖒𝖞 𝖘𝖚𝖕𝖊𝖗𝖕𝖔𝖜𝖊𝖗 <img src="https://i.imgur.com/5zY3v2T.png" width="30">  
+</h1>  
 
-  - Field of Study: [**Desenvolvimento de Sistemas**](https://www.seu-link-de-estudos.com)
+<p align="center">  
+  <i>「 𝖀𝖘𝖎𝖓𝖌 𝖙𝖊𝖈𝖍 𝖙𝖔 𝖇𝖚𝖎𝖑𝖉 𝖙𝖍𝖊 𝖋𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝖙𝖔𝖒𝖔𝖗𝖗𝖔𝖜 」</i>  
+</p>  
 
-  - Proficient in: **PHP**, **CSS**, **C#**
+---
 
-  - Skilled in: **JavaScript**, **MySQL**, **Docker**, **GitHub Actions**
+### **🔥 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑**  
 
-  - Highly experienced with: **XAMPP**, **AWS**, **Git**, **CI/CD**
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,rust,go,aws,docker,kubernetes,postgres,redis,graphql&theme=dark" alt="Tech Stack">  
+</p>  
 
-  - Languages: **Português**, **Inglês**, **Espanhol**
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galuzi&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align="right" />
-  <br/>
-  <br/>
-  <img src="./img/Repo-elaina.png" width="488" />
-  <br/>
-  <br/>
-  
-  - 📗 [***Galuzi/awesome-project***](https://github.com/galuzi/awesome-project) <br/>
-    A collection of awesome projects and resources.
-  - 📘 [***Galuzi/web-portfolio***](https://github.com/galuzi/web-portfolio) <br/>
-    My personal portfolio website built using HTML, CSS, and PHP.
-  - 📙 [***Galuzi/advanced-api***](https://github.com/galuzi/advanced-api) <br/>
-    A cutting-edge REST API with advanced features for secure systems.
-  - 📒 [***Galuzi/api-explorer***](https://github.com/galuzi/api-explorer) <br/>
-    An API explorer tool designed to simplify API testing.
-  
-  <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
-  <br/>
-  <img src="./img/banner-elainaa.png" width="500" /><br/>
-  <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@galuzi.com</sub>
-  <br/><br/>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=galuzi&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-  <br/><br/>
-  <p align='center'>
-    <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.galuzi.com"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/galuzi"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/galuzi"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/galuzi"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/galuzi"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-  </p>
-  <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
-</div>
+### **🎌 𝕿𝖔𝖕 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘**  
+
+<p align="center">  
+  <a href="https://github.com/SEU_USER/repo1">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USER&repo=repo1&theme=radical" alt="Repo 1">  
+  </a>  
+  <a href="https://github.com/SEU_USER/repo2">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USER&repo=repo2&theme=radical" alt="Repo 2">  
+  </a>  
+</p>  
+
+---
+
+### **📊 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘**  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=merko&include_all_commits=true" alt="Stats">  
+  <br>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=merko" alt="Streak">  
+</p>  
+
+---
+
+### **🖤 𝕮𝖔𝖓𝖓𝖊𝖈𝖙**  
+
+<p align="center">  
+  <a href="https://linkedin.com/in/SEU_USER">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  
+  </a>  
+  <a href="https://twitter.com/SEU_USER">  
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">  
+  </a>  
+  <a href="https://t.me/SEU_USER">  
+    <img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">  
+  </a>  
+</p>  
+
+<p align="center">  
+  <img src="https://i.imgur.com/JrQ3z4P.png" width="400" alt="Anime Cyber Art">  
+</p>  
