@@ -1,91 +1,56 @@
-<!-- 🌌 ANIME CYBERPUNK PROFILE - BY CARLOS GALUZI 🌌 -->
+# 💥 *Hey there, I'm [Your Name]*! 👋  
+### *🔥 Code Samurai & Digital Sorcerer 🔥*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV6dGZ2aXZ5eWJjZ3VjZ2J4bGx5YzV5Z3VqZzJmYzZ1dGZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" height="300" alt="Anime Power Up">
+</p>
+
+---
+
+### **⚡ Technologies & Tools**  
 <div align="center">
-
-<!-- BANNER ANIMADO COM EFEITO CYBERPUNK -->
-<img src="https://github.com/Galuzi/Galuzi/blob/main/assets/cyber-banner.gif?raw=true" width="100%"/>
-
-<!-- TEXTO ANIMADO COM EFEITO DE DIGITAÇÃO -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=FF00F7&center=true&vCenter=true&width=800&lines=+++KONICHIWA+HACKERS+%F0%9F%92%BB;CODE+LIKE+A+NINJA+%F0%9F%A4%B9;RESISTANCE+IS+FUTILE+%E2%9A%99%EF%B8%8F" alt="Anime Typing Effect"/>
-</h1>
-
-<!-- VISUALIZADOR DE CÓDIGO HACKER ANIMADO -->
-<img src="https://github.com/Galuzi/Galuzi/blob/main/assets/matrix-code.gif?raw=true" width="400" alt="Matrix Code"/>
-
-<!-- SEÇÃO DE STATUS COM EFEITOS -->
-<div align="center">
-  
-![Power Level](https://img.shields.io/badge/POWER_LEVEL-OVER_9000!-brightgreen?style=for-the-badge&logo=dragon-ball&logoColor=white)
-![Coding Hours](https://img.shields.io/badge/CODING_HOURS-999%2F24-ff69b4?style=for-the-badge&logo=clock&logoColor=white)
-![Anime Watched](https://img.shields.io/badge/ANIME_WATCHED-∞-blueviolet?style=for-the-badge&logo=crunchyroll&logoColor=white)
-
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 </div>
 
-<!-- ESTATÍSTICAS GITHUB PERSONALIZADAS -->
+---
+
+### **🎮 Fun Facts About Me**  
+- 🎧 *Coding with* **lofi beats** *or* **epic anime OSTs** 🎶  
+- 🎯 *Turning* **coffee** *into* **code** ☕➡️💻  
+- ⚡ *"It's not a bug, it's a* **feature** *waiting to happen!"* 🐞✨  
+- 🍥 *Believes in* **Naruto's** *ninja way: "Never give up!"* 🏃‍♂️💨  
+
+---
+
+### **📊 GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+### **🌟 Let's Connect!**  
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=galuzi&theme=tokyonight-duo&border_radius=10&mode=weekly&fire=FF00F7&currStreakNum=FF00F7&sideNums=FF00F7&sideLabels=FF00F7)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galuzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=FF00F7&icon_color=FF00F7&title_color=FF00F7&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white">
+  </a>
 </div>
 
-<!-- MATRIZ DE HABILIDADES ANIME -->
-## ⚡ **Tech Matrix**
-<div align="center">
-  
-| **Cyberware**       | **Level**       | **Anime Equivalent** |
-|---------------------|-----------------|----------------------|
-| `Python`            | 鬼 (Oni)        | Lelouch's Geass      |
-| `JavaScript`        | 影 (Kage)       | Shadow Clone Jutsu   |
-| `C++`               | 神 (Kami)       | Bankai               |
-| `.NET`              | 忍 (Shinobi)    | Rasengan             |
-| `React`             | 超 (Chou)       | Super Saiyan         |
+---
 
-</div>
-
-<!-- ARSENAL DE FERRAMENTAS -->
-## 🗡️ **Weapons Arsenal**
-<div align="center">
-  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-</div>
-
-<!-- PLAYER DE MÚSICA ESTILIZADO -->
-## 🎧 **Neon Soundtrack**
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kz4zq2w5qwhjq3mz5n3hq5bfdi&cover_image=true&theme=novatorem&bar_color=ff00f7&bar_color_cover=true)](https://open.spotify.com/user/31kz4zq2w5qwhjq3mz5n3hq5bfdi)
-
-</div>
-
-<!-- REDES SOCIAIS COM EFEITO NEON -->
-## 🌃 **Neon City Connections**
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-</div>
-
-<!-- RODAPÉ ANIMADO -->
-<img src="https://github.com/Galuzi/Galuzi/blob/main/assets/cyber-footer.gif?raw=true" width="100%"/>
-
-<!-- ASCII ART FINAL -->
-<div align="center">
-
-▄████████ ▄█ ▄████████ ▄█ █▄ ▄██████▄
-███ ███ ███ ███ ███ ███ ███ ███ ███
-███ █▀ ███▌ ███ █▀ ███ ███ ███ ███
-▄███▄▄▄ ███▌ ▄███▄▄▄ ▄███▄▄▄▄███▄▄ ███ ███
-▀▀███▀▀▀ ███▌ ▀▀███▀▀▀ ▀▀███▀▀▀▀███▀ ███ ███
-███ ███ ███ ███ ███ ███ ███
-███ ███ ███ ███ ███ ███ ███
-███ █▀ ███ ███ █▀ ▀██████▀
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat" alt="Profile Views">
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="100" alt="Anime Sparkles">
+</p>
