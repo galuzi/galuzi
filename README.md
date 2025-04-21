@@ -28,8 +28,8 @@
 `Docker` `Azure` `Git` `Linux`  
 
 <p align="center">
-  <img src="https://i.imgur.com/KaJ3QzW.png" width="150" alt="PHP Ninja">
-  <img src="https://i.imgur.com/TnBhkgG.gif" width="150" alt="C# Hacker">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1251a8d5-c247-450d-aa22-e42c7f601476/ddksp39-3ecdcb56-f0f1-4727-8ead-a87350fa966d.png/v1/fit/w_806,h_1023/anime_girl____render_by_yamyumchann_ddksp39-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyMyIsInBhdGgiOiJcL2ZcLzEyNTFhOGQ1LWMyNDctNDUwZC1hYTIyLWU0MmM3ZjYwMTQ3NlwvZGRrc3AzOS0zZWNkY2I1Ni1mMGYxLTQ3MjctOGVhZC1hODczNTBmYTk2NmQucG5nIiwid2lkdGgiOiI8PTgwNiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dDl-AAHiWz_YEX8Swq74fpnjhyDY6iVOvOfa7xQ6UhI" width="150" alt="PHP Ninja">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1251a8d5-c247-450d-aa22-e42c7f601476/ddksp39-3ecdcb56-f0f1-4727-8ead-a87350fa966d.png/v1/fit/w_806,h_1023/anime_girl____render_by_yamyumchann_ddksp39-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyMyIsInBhdGgiOiJcL2ZcLzEyNTFhOGQ1LWMyNDctNDUwZC1hYTIyLWU0MmM3ZjYwMTQ3NlwvZGRrc3AzOS0zZWNkY2I1Ni1mMGYxLTQ3MjctOGVhZC1hODczNTBmYTk2NmQucG5nIiwid2lkdGgiOiI8PTgwNiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dDl-AAHiWz_YEX8Swq74fpnjhyDY6iVOvOfa7xQ6UhI" width="150" alt="C# Hacker">
 </p>
 
 ---
