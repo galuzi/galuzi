@@ -1,47 +1,47 @@
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8c48f09-5aa8-4e30-88be-055e1cf38041/dgmwtgy-b3721865-56a6-4ef0-98f1-d73fad25209e.png/v1/fill/w_1242,h_541,q_80,strp/death_the_kid_by_jinxiieeee_dgmwtgy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQxIiwicGF0aCI6IlwvZlwvYjhjNDhmMDktNWFhOC00ZTMwLTg4YmUtMDU1ZTFjZjM4MDQxXC9kZ213dGd5LWIzNzIxODY1LTU2YTYtNGVmMC05OGYxLWQ3M2ZhZDI1MjA5ZS5wbmciLCJ3aWR0aCI6Ijw9MTI0MiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.msq5X5DJci9Rjykho5kmd0QS4GSRPvaYwsF9CdD-lgc" width="600" alt="Cyber Anime Header">  
-</p>
-
-<h1 align="center">  
-  <img src="https://imgur.com/TnBhkgG.gif" width="30"> コードは私の超パワーだ！ <img src="https://imgur.com/TnBhkgG.gif" width="30">  
-</h1>  
-
-<p align="center">  
-  <i> "while(!succeed) { try(); }" </i>  
-</p>  
-
----
-
-### **🔥 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑**  
-
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80dd4180-f2ad-4c83-ac9e-a42dd17be35f/deatl19-85d6f890-7b3a-45fb-9804-d4ad59b48878.jpg/v1/fill/w_1358,h_588,q_70,strp/ems_by_kyokazu_deatl19-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYxMSIsInBhdGgiOiJcL2ZcLzgwZGQ0MTgwLWYyYWQtNGM4My1hYzllLWE0MmRkMTdiZTM1ZlwvZGVhdGwxOS04NWQ2Zjg5MC03YjNhLTQ1ZmItOTgwNC1kNGFkNTliNDg4NzguanBnIiwid2lkdGgiOiI8PTM3MTcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Mxm6ZP0MA2-bMIrZC5krUB1garbZHRf7pZkd2qPdPbo" width="800" alt="Cyber Samurai">
-</p>
-
-#### **⚔️ 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕭𝖆𝖙𝖙𝖑𝖊**  
-`PHP` `C#` `Laravel` `.NET` `MySQL`  
-
-#### **🌌 𝕱𝖗𝖔𝖓𝖙-𝕰𝖓𝖉 𝕲𝖚𝖆𝖗𝖉**  
-`JavaScript` `HTML/CSS` `Bootstrap` `jQuery`  
-
-#### **🛡️ 𝕯𝖊𝖕𝖑𝖔𝖞𝖒𝖊𝖓𝖙 𝕯𝖊𝖋𝖊𝖓𝖘𝖊**  
-`Docker` `Azure` `Git` `Linux`  
-
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1251a8d5-c247-450d-aa22-e42c7f601476/dd8wp2i-8414989e-edcc-4492-9a9b-edfa780f377a.png/v1/fit/w_763,h_1081/k5__girls_frontline__render_089_by_yamyumchann_dd8wp2i-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MSIsInBhdGgiOiJcL2ZcLzEyNTFhOGQ1LWMyNDctNDUwZC1hYTIyLWU0MmM3ZjYwMTQ3NlwvZGQ4d3AyaS04NDE0OTg5ZS1lZGNjLTQ0OTItOWE5Yi1lZGZhNzgwZjM3N2EucG5nIiwid2lkdGgiOiI8PTc2MyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NnVpUWP7mvxPr2edUP-HX_YtPZTbCpw_MzR5CUkuopw" width="150" alt="PHP Ninja">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1251a8d5-c247-450d-aa22-e42c7f601476/ddksp39-3ecdcb56-f0f1-4727-8ead-a87350fa966d.png/v1/fit/w_806,h_1023/anime_girl____render_by_yamyumchann_ddksp39-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyMyIsInBhdGgiOiJcL2ZcLzEyNTFhOGQ1LWMyNDctNDUwZC1hYTIyLWU0MmM3ZjYwMTQ3NlwvZGRrc3AzOS0zZWNkY2I1Ni1mMGYxLTQ3MjctOGVhZC1hODczNTBmYTk2NmQucG5nIiwid2lkdGgiOiI8PTgwNiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dDl-AAHiWz_YEX8Swq74fpnjhyDY6iVOvOfa7xQ6UhI" width="150" alt="C# Hacker">
-</p>
-
----
-
-### **📊 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘**  
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galuzi&theme=merko" alt="Streak">  
-</p>  
-
----  
-
-<p align="center">  
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83c3ac45-0de3-4f59-8dfe-a2379b3a3400/dirn1cv-cbf6ce7e-9bff-4e0d-95f5-dcbe6f207196.png/v1/fill/w_1194,h_669,q_70,strp/_chrome__by_evlsound_dirn1cv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6IlwvZlwvODNjM2FjNDUtMGRlMy00ZjU5LThkZmUtYTIzNzliM2EzNDAwXC9kaXJuMWN2LWNiZjZjZTdlLTliZmYtNGUwZC05NWY1LWRjYmU2ZjIwNzE5Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.aPQJpT0m83GpjXuW6_NZriwTX06nt_zcPJYmuDa9-Uk" width="900" alt="Anime Cyber Art">  
-</p>  
+  <p align="center"><!-- Optional banner goes here--> </p>
+<div>
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
+<h2> // About me </h2>
+<ul>
+<li>👨‍💻 Clean code, boas práticas e organização de arquivos</li>
+<li>🤓 Otimização de front-end e back-end</li>
+<li>🎓 Estudando constantemente para evoluir como desenvolvedor</li>
+</ul>
+<h2>  // Skills  </h2>
+<ul>
+<li>
+<h3> programming &amp; markup languages </h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+<ul>
+<li>
+<h4> currently learning </h4>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts">
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa">
+</li>
+</ul>
+</li>
+<li>
+<h3>  frameworks &amp; libraries </h3>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="react">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="bootstrap5">
+</li>
+<li>
+<h3> tools </h3>
+  <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
+<img src="https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=" alt="photoshop">
+<img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=f8a829" alt="illustrator">
+<ul>
+<li>
+📫 - E em breve... um portfólio pessoal!
+</li>
+</ul>
+</li>
+</ul>
