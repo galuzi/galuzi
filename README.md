@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=f8a829" alt="illustrator">
 <ul>
 <li>
-📫 - E em breve... um portfólio pessoal!
+<h4> 📫 - E em breve... um portfólio pessoal! </h4> 
 </li>
 </ul>
 </li>
