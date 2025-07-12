@@ -45,14 +45,6 @@
 
 ---
 
-## 💡 Fun facts
-
-- 🎬 Viciado em animes e cultura geek
-- 🎨 Gosto de criar artes digitais e interfaces
-- 🐱 Cat lover
-
----
-
 <p align="center" style="color:rgba(90,15,200,0.7); font-size:1.1rem;">
   <b>“Transformando ideias em código... e depois em caos inexplicáveis.”</b>
 </p>
