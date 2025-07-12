@@ -1,42 +1,58 @@
-  <p align="center"></p>
-<div>
-<img align="right" width="400" alt="dragon" src="https://imgur.com/pXGyqYb.png">
-<h2> // Sobre mim </h2>
-<ul>
-<li>👨‍💻 Clean code, boas práticas e organização de arquivos</li>
-<li>🤓 Otimização de front-end e back-end</li>
-<li>🎓 Estudando constantemente para evoluir como desenvolvedor</li>
-</ul>
-<h2>  // Habilidades  </h2>
-<ul>
-<li>
-<h3> linguagens de programação </h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
-  
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-<ul>
-<li>
-<h4> aprendendo atualmente </h4>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts">
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="react">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="bootstrap5">
-</li>
-</ul>
-</li>
-<li>
-<h3> tools </h3>
-  <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
-<img src="https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=" alt="photoshop">
-<img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=f8a829" alt="illustrator">
-<ul>
-</ul>
-</li>
-</ul>
+<!-- PERFIL ÚNICO E IMPACTANTE -->
+
+<p align="center">
+  <img src="https://imgur.com/hmK2i5l.png" width="180" style="border-radius: 50%; box-shadow: 0 0 30px #5A0FC8;">
+</p>
+
+<h1 align="center" style="color:rgba(90,15,200,0.8); font-size:3rem;">
+  <span> Carlos "Galuzi"</span>
+</h1>
+<p align="center" style="font-size:1.2rem; color:rgba(255,255,255,0.7);">
+  <em>“Só sei que nada sei”</em>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=5A0FC8&center=true&vCenter=true&width=435&lines=Clean+Code+%F0%9F%92%BB;Fullstack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%8E%93;Design+Lover+%F0%9F%96%8C%EF%B8%8F;Anime+Fan+%F0%9F%8E%A5" alt="Typing SVG" />
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+> - 🎯 Foco em clean code, boas práticas e organização
+> - 🚀 Otimização de front-end e back-end
+> - 📚 Aprendizado contínuo e paixão por tecnologia
+> - 🎨 Amante de design, anime e cultura pop
+
+---
+
+## 🛠️ Habilidades & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,cs,mysql,nodejs,react,nextjs,figma,git,photoshop,illustrator" />
+</div>
+
+---
+
+## 🌱 Atualmente aprendendo
+
+- TypeScript avançado
+- Node.js para alta performance
+- Design de interfaces modernas
+- Novas tendências em PWAs
+
+---
+
+## 💡 Fun facts
+
+- 🎬 Viciado em animes e cultura geek
+- 🎨 Gosto de criar artes digitais e interfaces
+- 🐱 Cat lover
+
+---
+
+<p align="center" style="color:rgba(90,15,200,0.7); font-size:1.1rem;">
+  <b>“Transformando ideias em código... e depois em caos inexplicáveis.”</b>
+</p>
