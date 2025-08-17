@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="color:rgba(90,15,200,0.8); font-size:3rem;">
-  <span> Carlos "Galuzi"</span>
+  <span> Carlos Galuzi</span>
 </h1>
 <p align="center" style="font-size:1.2rem; color:rgba(255,255,255,0.7);">
   <em>“Só sei que nada sei”</em>
