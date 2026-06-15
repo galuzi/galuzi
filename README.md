@@ -1,7 +1,7 @@
 <!-- PERFIL ÚNICO E IMPACTANTE -->
 
 <p align="center">
-  <img src="https://imgur.com/hmK2i5l.png" width="180" style="border-radius: 50%; box-shadow: 0 0 30px #5A0FC8;">
+  <img src="https://imgur.com/9oLPndt.png" width="180" style="border-radius: 50%; box-shadow: 0 0 30px #5A0FC8;">
 </p>
 
 <h1 align="center" style="color:rgba(90,15,200,0.8); font-size:3rem;">
